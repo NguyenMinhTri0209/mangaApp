@@ -88,9 +88,6 @@ class MainActivity : AppCompatActivity() {
                                         signUpLayout.visibility = View.GONE
                                         LogInLayout.visibility = View.VISIBLE
                                     }
-                                    else{
-                                        Toast.makeText(this,"Chua post duoc",Toast.LENGTH_LONG).show()
-                                    }
                                 }
                             }
                         }
